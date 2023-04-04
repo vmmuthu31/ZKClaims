@@ -89,9 +89,9 @@ const Form = ({ proveIt }: FormProps) => {
 
 			<button
 				type="submit"
-				className="py-5 lg:py-4 mt-5 transition-colors ease-in bg-yellow px-9 rounded-xl hover:shadow-lg"
+				className="btn-grad"
 			>
-				Claim your Identity!
+				Claim your Identity! 🚀
 			</button>
 		</form>
 	)

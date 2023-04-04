@@ -77,13 +77,7 @@ export default function Main() {
 
 	return (
 		<div className="flex min-h-screen items-center w-full h-full max-w-90% lg:max-w-[70%] mx-auto justify-between gap-36 lg:gap-20 flex-col lg:flex-row flex-wrap  max-w-full p-2 lg:p-10 py-10">
-			<div className="flex flex-col items-center justify-center max-w-full m-auto text-center lg:text-start lg:items-start">
-				<img src={Logo} alt="" className="mb-2 w-32 h-24" />
-				<div className="break-all">
-					<h3 className="text-yellow font-AgrandirGrandHeavy leading-[62px] font-extrabold text-5xl">
-						ZKClaims
-					</h3>
-				</div>
+			<div className="flex flex-col items-center justify-center pt-10 max-w-full m-auto text-center lg:text-start lg:items-start">
 				<div className="mb-12">
 					<h3 className="text-xl font-Fredoka text-white text-opacity-70">
 						Claim your identity or proof of work that you <br/> build on the Hackathon.{' '}

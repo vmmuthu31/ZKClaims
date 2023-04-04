@@ -30,7 +30,7 @@ function Claimed() {
               <span className="sr-only">Your Company</span>
               <h3 className="text-yellow font-AgrandirGrandHeavy leading-[62px] font-extrabold text-5xl">
 						ZK
-						<span className='text-blue-600'>Claims</span>
+						<span className='text-blue-600'>Claims 👾</span>
 					</h3>
             </a>
           </div>

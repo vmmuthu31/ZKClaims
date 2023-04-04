@@ -69,7 +69,7 @@ function Collections() {
         <span className="sr-only">Your Company</span>
         <h3 className="text-yellow font-AgrandirGrandHeavy leading-[62px] font-extrabold text-5xl">
                   ZK
-                  <span className='text-blue-600'>Claims</span>
+                  <span className='text-blue-600'>Claims 👾</span>
               </h3>
       </a>
     </div>
@@ -101,7 +101,7 @@ function Collections() {
    
         <h3 className="text-yellow font-AgrandirGrandHeavy leading-[62px] font-extrabold text-3xl">
                   ZK
-                  <span className='text-blue-600'>Claims</span>
+                  <span className='text-blue-600'>Claims </span>
               </h3>
      
         </a>
@@ -144,8 +144,8 @@ function Collections() {
 			</div>
 		</div>
 
-        <h3 className="text-4xl pt-5 text-center font-Fredoka text-white text-opacity-70">
-                    Collections
+        <h3 className="text-4xl pt-5 text-center font-Fredoka text-white ">
+                    Collections 😮 
 					</h3>
                     <div className="">
       <div className="mx-auto max-w-2xl px-4  sm:px-6 sm:py-10 lg:max-w-7xl lg:px-8">

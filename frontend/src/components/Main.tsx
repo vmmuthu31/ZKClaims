@@ -146,7 +146,7 @@ export default function Main() {
 
 			<div className="max-w-[50%] m-auto">
 				<img src={Device} alt="" />
-				<button onClick={mintcerti} className='btn-grad  text-lg'>Mint your NFT</button>
+				
 			</div>
 		</div>
 	)
